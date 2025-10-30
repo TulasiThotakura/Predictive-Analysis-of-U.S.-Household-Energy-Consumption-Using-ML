@@ -1,7 +1,7 @@
 # Predictive Analysis of U.S. Household Energy Consumption Using Machine Learning
 
 <p align="center">
-  <img src="./visuals/Banner.jpg" alt="Household Energy ML" width="600"/>
+  <img src="./Visuals/Banner.jpg" alt="Household Energy ML" width="600"/>
 </p>
 
 ---
